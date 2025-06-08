@@ -1,0 +1,4 @@
+Patient_ID,Patient_Name,Date_of_Birth,Gender,Address,Contact_Info,Encounter_ID,Encounter_Date,Encounter_Type,Provider_ID,Diagnosis_Codes,Medication_Orders,Allergies_List,Vital_Signs,Clinical_Notes_Summary
+PAT_001,John Doe,1985-06-15,Male,"123 Main St, Anytown",(555)123-4567,ENC_001,2023-01-10,Inpatient,PROV_001,"ICD10:I10,ICD10:E11.9","Lisinopril 10mg QD, Metformin 500mg BID",None,"BP:130/85, HR:75","Routine check-up, stable."
+PAT_002,Jane Smith,1992-03-22,Female,"456 Oak Ave, Anytown",(555)987-6543,ENC_002,2023-02-20,Outpatient,PROV_002,ICD10:J02.9,Amoxicillin 250mg TID,Penicillin,"BP:120/80, HR:68","Sore throat, prescribed antibiotics."
+PAT_003,Robert Jones,1978-11-05,Male,"789 Pine Ln, Anytown",(555)555-1212,ENC_003,2022-12-05,Emergency,PROV_001,ICD10:S06.0X0A,Observation,None,"BP:140/90, HR:90","Minor head injury, observation."

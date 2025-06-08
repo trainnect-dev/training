@@ -1,0 +1,8 @@
+Field Name,Data Type,Sample Value / Format,Description
+Prescription_ID,String,RX_001,Unique Prescription Identifier (links to EHR order)
+Patient_ID,String,PAT_001,Patient Identifier
+Medication_NDC_Code,String,00000-0000-00,National Drug Code
+Dispense_Date,Date,2023-01-11,Date medication was dispensed
+Dispense_Quantity,Integer,30,Quantity dispensed
+Days_Supply,Integer,30,Days supply of medication
+Fill_Number,Integer,1,"Fill number (1 for new, 2+ for refills)"
