@@ -1,0 +1,10 @@
+Field Name,Data Type,Sample Value / Format,Description
+Lab_Order_ID,String,LAB_001,Unique Lab Order ID (links to EHR order)
+Patient_ID,String,PAT_001,Patient Identifier
+Specimen_ID,String,SPEC_001,Unique Specimen Identifier
+Test_Code,String,LOINC:2345-7,"Test code (e.g., LOINC)"
+Test_Name,String,Glucose,Name of the lab test
+Result_Value,String,105,Quantitative or qualitative result
+Reference_Range,String,70-100 mg/dL,Normal reference range
+Abnormal_Flags,String,H,"Flags for abnormal results (H for High, L for Low)"
+Collection_Date_Time,DateTime,2023-01-10 8:00:00,Time specimen was collected

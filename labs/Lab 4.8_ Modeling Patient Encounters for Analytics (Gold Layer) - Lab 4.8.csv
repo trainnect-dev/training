@@ -1,0 +1,13 @@
+Field Name,Data Type,Description/Sample Value,Source System Concept,Rationale for Inclusion
+PatientSourceID,String,PATID12345,EHR/Multiple,Original source system ID.
+MRN,String,MRN001,EHR,"Medical Record Number, used for deduplication."
+SSN_Token,String,TOKEN_SSN1,EHR,Example of a sensitive field tokenized.
+FirstName,String,John,EHR,Demographic.
+LastName,String,Doe,EHR,Demographic.
+DateOfBirth,Date,"datetime.date(1980, 1, 1)",EHR,"Demographic, for age calculation."
+Gender,String,M,EHR,Demographic.
+Race,String,WH (White),EHR,Demographic.
+Ethnicity,String,N (Non-Hispanic),EHR,Demographic.
+ZipCode,String,90210,EHR,"Demographic, for geo-analytics."
+SourceSystem,String,EHR_SystemA,System Info,Originating system of the record.
+IngestionTimestamp,DateTime,datetime.datetime.now(),System Info,"Timestamp for processing, used in deduplication logic."

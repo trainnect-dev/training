@@ -1,0 +1,16 @@
+Field Name,Data Type,Sample Value / Format,Description
+Patient_ID,String,PAT_001,Unique Patient Identifier
+Patient_Name,String,John Doe,Patient Full Name
+Date_of_Birth,Date,1985-06-15,Patient Date of Birth
+Gender,String,Male,Patient Gender
+Address,String,"123 Main St, Anytown",Patient Address
+Contact_Info,String,(555)123-4567,Patient Phone Number
+Encounter_ID,String,ENC_001,Unique Encounter Identifier
+Encounter_Date,Date,2023-01-10,Date of Encounter
+Encounter_Type,String,Inpatient,"Type of Encounter (Inpatient, Outpatient, Emergency)"
+Provider_ID,String,PROV_001,Attending Provider ID
+Diagnosis_Codes,String,ICD10:J45.909,Comma-separated diagnosis codes
+Medication_Orders,String,Lisinopril 10mg QD,"Prescribed medications, dosage, frequency"
+Allergies_List,String,Penicillin,Known allergies
+Vital_Signs,String,"BP:120/80, HR:70",Key vital signs
+Clinical_Notes_Summary,String,Patient presented with cough...,Brief summary of unstructured notes

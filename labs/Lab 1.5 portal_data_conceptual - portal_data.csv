@@ -1,0 +1,6 @@
+Field Name,Data Type,Sample Value / Format,Description
+Appointment_ID,String,APP_PORTAL_001,Unique Appointment Identifier
+Patient_ID,String,PAT_002,Patient Identifier
+Scheduled_Date_Time,DateTime,2023-02-20 14:00:00,Scheduled date and time of appointment
+Appointment_Status,String,Completed,"Status (Scheduled, Confirmed, Cancelled, Completed)"
+Reason_for_Visit_Patient,String,Follow-up for sore throat,Patient-stated reason for visit

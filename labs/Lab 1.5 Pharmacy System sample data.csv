@@ -1,0 +1,4 @@
+Prescription_ID,Patient_ID,Medication_NDC_Code,Dispense_Date,Dispense_Quantity,Days_Supply,Fill_Number
+RX_001,PAT_001,00591-0709-30,2023-01-11,30,30,1
+RX_002,PAT_001,00093-7165-56,2023-01-11,60,30,1
+RX_003,PAT_002,00071-0155-23,2023-02-21,21,7,1
