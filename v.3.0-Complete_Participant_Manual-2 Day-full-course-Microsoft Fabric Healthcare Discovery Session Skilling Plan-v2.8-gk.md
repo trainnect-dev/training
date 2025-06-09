@@ -10,21 +10,21 @@
 
 ## 📑 Training Manual Outline
 
-1.  **Introduction to Microsoft Fabric in Healthcare**
-2.  **Setting Up the Environment**
-3.  **Data Ingestion and Integration**
-4.  **Data Modeling and Transformation**
-5.  **Security, Compliance, and Governance**
-6.  **Analytics and Reporting**
-7.  **Machine Learning and AI Integration**
-8.  **Performance Optimization**
-9.  **Collaboration and Sharing**
-10. **Advanced Features and Customization**
-11. **Case Studies and Real-World Applications**
-12. **Labs and Exercises**
-13. **Assessment and Certification**
-14. **Job Aids and Cheat Sheets**
-15. **Final Notes and Resources**
+1.  [**Introduction to Microsoft Fabric in Healthcare**](#-section-1-introduction-to-microsoft-fabric-in-healthcare)
+2.  [**Setting Up the Environment**](#-section-2-setting-up-the-environment)
+3.  [**Data Ingestion and Integration**](#-section-3-data-ingestion-and-integration)
+4.  [**Data Modeling and Transformation**](#-section-4-data-modeling-and-transformation)
+5.  [**Security, Compliance, and Governance**](#-section-5-security-compliance-and-governance)
+6.  [**Analytics and Reporting**](#-section-6-analytics-and-reporting)
+7.  [**Machine Learning and AI Integration**](#-section-7-machine-learning-and-ai-integration)
+8.  [**Performance Optimization**](#-section-8-performance-optimization)
+9.  [**Collaboration and Sharing**](#-section-9-collaboration-and-sharing)
+10. [**Advanced Features and Customization**](#-section-10-advanced-features-and-customization)
+11. [**Case Studies and Real-World Applications**](#-section-11-case-studies-and-real-world-applications)
+12. [**Labs and Exercises**](#-section-12-labs-and-exercises)
+13. [**Assessment and Certification**](#-section-13-assessment-and-certification)
+14. [**Job Aids and Cheat Sheets**](#-section-14-job-aids-and-cheat-sheets)
+15. [**Final Notes and Resources**](#-section-15-final-notes-and-resources)
 
 ---
 
